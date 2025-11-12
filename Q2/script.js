@@ -1,6 +1,6 @@
 // Data Variables
-let userName = "Pushpendra";
-let userAge = 18;
+let userName = "Lavanya";
+let userAge = 20;
 let isPremiumUser = true;
 let favoriteColors = ["Red", "Blue"];
 let userAddress = { city: "Delhi", pin: 110001 };
